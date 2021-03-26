@@ -21,7 +21,7 @@ I'm a huge fan of automation and optimization. I'm trying to blog more. Go is my
 
 ❓❓❓ In this everything-Zoom world right now, I was looking for a way to stay connected to others, and have fun at the same time. I have really enjoyed the gameplay of JackBox games (everyone can play remotely on their phones with one person hosting) and was interested in building something similar. 🙋🏽‍♀️ So I built a trivia game in React that runs on WebRTC/[PeerJS](https://github.com/peers/peerjs-server) and gets trivia questions from [Open Trivia Database](https://opentdb.com/). 
 
-💰 It's free and relies only on GitHub pages, OpenTDB, and a PeerJS server. Go to <https://caitlinelfring.github.io/trivia> to play now!
+💰 It's free and relies only on GitHub pages, OpenTDB, and a PeerJS server. Go to <https://triviawithfriends.fun> to play now!
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=caitlinelfring&repo=trivia)](https://github.com/caitlinelfring/trivia)
 
