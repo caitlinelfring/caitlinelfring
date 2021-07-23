@@ -2,7 +2,7 @@
 
 #### About me
 
-My pronouns are she/her.
+[![Pronouns she/her](https://img.shields.io/badge/pronouns-she%2Fher-9cf)](https://pronoun.is/she)
 
 I'm an SRE with a background in systems and software engineering. I am about to start a new adventure (details to come soon!) and was previously the Tech Lead on Rent the Runway's Infrastructure team, working on building out our cloud infrastructure and revamping our CI/CD pipelines. I enjoy big-picture projects, doing things right the first time, leaving things better than I found them, and working with awesome, ambitious people who love what they do as much as I do.
 
