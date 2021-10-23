@@ -4,7 +4,7 @@
 
 [![Pronouns she/her](https://img.shields.io/badge/pronouns-she%2Fher-9cf)](https://pronoun.is/she)
 
-I'm an SRE with a background in systems and software engineering. I am a Senior Software Engineer at [Datadog](https://www.datadoghq.com/careers/) and was previously the Tech Lead and Staff Engineer on Rent the Runway's Infrastructure team, working on building out our cloud infrastructure and revamping our CI/CD pipelines. I enjoy big-picture projects, doing things right the first time, leaving things better than I found them, and working with awesome, ambitious people who love what they do as much as I do.
+I'm an SRE with a background in systems and software engineering. I am the Team Lead of the API Frameworks team at [Datadog](https://www.datadoghq.com/careers/) and was previously the Tech Lead and Staff Engineer on Rent the Runway's Infrastructure team, working on building out our cloud infrastructure and revamping our CI/CD pipelines. I enjoy big-picture projects, doing things right the first time, leaving things better than I found them, and working with awesome, ambitious people who love what they do as much as I do.
 
 I'm a huge fan of automation and optimization. I'm trying to blog more. Go is my favorite programming language, after bash of course. I think it's time to learn a new language... Rust?
 
